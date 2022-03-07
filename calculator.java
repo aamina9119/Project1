@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/*this code shows some more message*/
 
  public class calculator
   {
@@ -52,7 +53,21 @@ import java.util.Scanner;
 	      default : System.out.print("Wrong Choice!!!");
 	                break;
 	   }
-																	            System.out.print("\n---------------------------------------\n");
+        System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
